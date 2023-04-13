@@ -1,7 +1,7 @@
 ---
 title: "Mediation and Alternative Dispute Resolution"
 description: "Islamic councils in Canada provide arbitration or mediation services for a range of family law issues, including divorce, child custody and inheritance. The process typically involves an imam or Islamic scholar who acts as a mediator or arbitrator, and the decision reached is binding on the parties involved."
-date: 2023-04-13T13:47:20Z
+date: 2023-04-12T13:47:20Z
 ---
 ## Benefits of Mediation and Alternative Dispute Resolution for Muslim Women in Canada
 Divorce can be a stressful and emotional process, especially for Muslim women who may face unique challenges due to cultural, social, and religious norms. However, using mediation or alternative dispute resolution (ADR) mechanisms can help to alleviate some of the stress and provide a more positive outcome for both parties involved. This post will outline the benefits of using mediation or ADR to resolve issues related to divorce and provide information on how Muslim women in Canada can access these services.
