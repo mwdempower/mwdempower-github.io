@@ -1,6 +1,6 @@
 ---
 title: "Emotional and Spiritual Support Services"
-date: 2023-04-13T13:48:01Z
+date: 2023-04-10T13:48:01Z
 description: "There are a number of organizations that provide emotional and spiritual support to women through Divorce in Canada"
 ---
 Going through a divorce can be an incredibly difficult and emotional process, and for Muslim women, it can be particularly challenging due to cultural and religious considerations. In addition to legal resources and organizations that can provide practical support, emotional and spiritual support is also critical. In this post, we will explore some of the resources and organizations that can provide emotional and spiritual support to Muslim women going through divorce, including counselling services, support groups, and religious organizations.
