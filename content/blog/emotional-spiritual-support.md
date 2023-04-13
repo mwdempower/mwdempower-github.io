@@ -1,5 +1,5 @@
 ---
-title: "Emotional Spiritual Support"
+title: "Emotional and Spiritual Support Services"
 date: 2023-04-13T13:48:01Z
 description: "There are a number of organizations that provide emotional and spiritual support to women through Divorce in Canada"
 ---
