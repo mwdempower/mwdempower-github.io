@@ -1,7 +1,7 @@
 ---
-title: "Legal Organizations for Women"
-desription: "There are a number of legal resources and organizations that can assist Muslim women going through a divorce in Canada. We will list down some important resources that you can use in your divorce journey."
-date: 2023-04-13T13:47:02Z
+title: "Legal Organizations for Muslim Women"
+description: "There are a number of legal resources and organizations that can assist Muslim women going through a divorce in Canada. We will list down some important resources that you can use in your divorce journey."
+date: 2023-04-09T13:47:02Z
 ---
 Going through a divorce can be a challenging and emotional process, especially for Muslim women who may face unique challenges due to cultural, social, and religious norms. It is essential to have access to legal resources and organizations that can provide support and advice during this time. This post provides a list of legal resources and organizations that can assist Muslim women going through divorce in Canada.
 ## Legal Aid Clinics
