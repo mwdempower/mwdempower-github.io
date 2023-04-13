@@ -1,7 +1,7 @@
 ---
-title: "Rights Responsibilities Women"
+title: "Rights and Responsibilities of Muslim Women"
 description: "The post highlights the rights and respobsibilities of Muslim women during Divorce proceedings in Canada"
-date: 2023-04-13T13:47:43Z
+date: 2023-04-11T13:47:43Z
 ---
 Divorce can be a challenging experience for anyone, but it can be especially difficult for Muslim women who may face unique challenges due to cultural, social, and religious norms. This post will outline the rights and responsibilities of Muslim women during and after divorce, with a focus on issues such as child custody, financial support, and property division.
 ## Child Custody
