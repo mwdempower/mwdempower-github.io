@@ -14,8 +14,8 @@ googleAnalytics = 'G-DKW9G4KQ1P'
       introPhoto = "/EMW.png"
       logo = "/EMW.png"
     [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "Divorce"
+        url = "divorce"
         weight = 1
 
     [[languages.en.menu.main]]
