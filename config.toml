@@ -1,6 +1,6 @@
 baseURL = 'https://empowermuslimwomen.com/'
 languageCode = 'en-us'
-title = 'Empowering Muslim Women'
+title = 'Empower Muslim Women'
 theme = 'blist'
 googleAnalytics = 'G-DKW9G4KQ1P'
 [languages]
@@ -10,7 +10,7 @@ googleAnalytics = 'G-DKW9G4KQ1P'
     languageName = "English"
     [languages.en.params]
       introTitle = "Empower Muslim Women"
-      introSubtitle = "A Resource for Muslim Women Seeking Divorce in Canada"
+      introSubtitle = "Redefining boundaries"
       introPhoto = "/EMW.png"
       logo = "/EMW.png"
     [[languages.en.menu.main]]
