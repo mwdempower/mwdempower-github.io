@@ -24,4 +24,12 @@ The steps to get a home daycare license from Wee Watch agency:
 5. **Complete training:** Wee Watch requires all providers to complete a training program in early childhood education. They offer training courses online and in-person.
 6. **Receive a license:** Once you have completed the application process, interview, home inspection, and training, Wee Watch will issue you a license to operate a home daycare under their agency.
 
+## Startup costs
+The startup costs for a home-based daycare in Ontario can vary based on a number of factors, including location, the size of the daycare, and the age range of the children being cared for. 
+Here are some potential costs you may need to consider:
+1. **Licensing and Certification Fees:** In Ontario, home-based daycare operators are required to obtain a license from the Ministry of Education. You may also need to obtain certification in First Aid and CPR. These fees can vary but typically range from a few hundred to a few thousand dollars.
+2. **Safety Equipment and Supplies:** You may need to purchase safety equipment such as fire extinguishers, smoke detectors, and safety gates. You may also need to purchase supplies such as toys, books, and educational materials. You can get most of the stuff from Mom groups on Facebook to keep the costs down.
+3. **Insurance:** Home-based daycare operators in Ontario are required to carry liability insurance. The cost of insurance can vary based on the amount of coverage you need.
+4. **Marketing:** You can avoid any marketing costs by advertising on Facebook mom groups and babysitting groups
 
+Overall, the startup costs for a home-based daycare in Ontario can be a few thousand dollars, depending on your specific needs and the requirements in your area.
